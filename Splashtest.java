@@ -24,6 +24,7 @@ public class Splashtest extends JFrame {
 		
 					Splashtest frame = new Splashtest();
 					frame.setVisible(true);
+					frame.setTitle("game-2016");
 	}
 
 	public Splashtest() {
